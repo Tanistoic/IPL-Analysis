@@ -27,4 +27,5 @@ Interactive visualizations using built-in and custom charts
 
 ## Preview
 
+![Dashboard](https://raw.githubusercontent.com/Tanistoic/IPL-Analysis/9813741a772ef7ffda029d6fb154f9e108ae4349/IPL%20Analysis%20Dashboard%20Preview.png)
 
