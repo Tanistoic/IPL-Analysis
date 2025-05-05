@@ -23,3 +23,8 @@ Power BI Desktop
 DAX for calculated fields and dynamic measures
 
 Interactive visualizations using built-in and custom charts
+
+
+## Preview
+
+
